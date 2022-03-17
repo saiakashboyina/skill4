@@ -1,5 +1,4 @@
 import java.io.*;
-import java.util.*;
 public class AddTwoNumbers {
 
    public static void main(String[] args) {
@@ -9,4 +8,3 @@ public class AddTwoNumbers {
 
       System.out.println("Sum of these numbers: "+sum);
    }
-}
